@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 // Import family-friendly icons
-import { FaHome, FaHandHoldingHeart, FaHospital, FaBrain, FaHouseUser, FaHandsHelping, FaChild } from 'react-icons/fa';
+import { FaHandHoldingHeart, FaHospital, FaBrain, FaHouseUser, FaHandsHelping, FaChild } from 'react-icons/fa';
 
 function Home() {
   return (
