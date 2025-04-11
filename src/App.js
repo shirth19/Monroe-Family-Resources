@@ -13,7 +13,7 @@ import SuggestionForm from './components/SuggestionForm';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Monroe-Family-Resources">
       <div className="App">
         <Navigation />
         <main className="main-content">
