@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Monroe-Family-Resources/static/css/main.b61452aa.css",
+    "main.js": "/Monroe-Family-Resources/static/js/main.d5e2d8c4.js",
+    "static/js/453.89f587e0.chunk.js": "/Monroe-Family-Resources/static/js/453.89f587e0.chunk.js",
+    "index.html": "/Monroe-Family-Resources/index.html",
+    "main.b61452aa.css.map": "/Monroe-Family-Resources/static/css/main.b61452aa.css.map",
+    "main.d5e2d8c4.js.map": "/Monroe-Family-Resources/static/js/main.d5e2d8c4.js.map",
+    "453.89f587e0.chunk.js.map": "/Monroe-Family-Resources/static/js/453.89f587e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b61452aa.css",
+    "static/js/main.d5e2d8c4.js"
+  ]
+}
